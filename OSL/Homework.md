@@ -4,3 +4,5 @@ For next lab :
 2)under that install Ubuntu. 
 
 [For Lab Assesment Marking]
+
+Book Recommendation: Operating System Concepts by Abraham Silbernchartz
