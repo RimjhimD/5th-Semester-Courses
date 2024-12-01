@@ -1,0 +1,10 @@
+Lab 3 works:
+1) Directory creation
+2) File Creation
+3)File read and write
+4)Copying file from one dir to another dir
+5)Renaming file 
+
+#
+Next lab homework:
+Creating Directory and file ...and write id,name,abt etc 15 times in that file like a column and row system.
