@@ -38,25 +38,25 @@ Semester:5th
 
 #
 
-Course Namae: Artificial Intelligence 
+Course Namae: Information System Design
 <br>
-Course Code: CSE 3317
-<br>
-Semester:5th
-
-#
-
-Course Namae: Artificial Intelligence 
-<br>
-Course Code: CSE 3317
+Course Code: CSE 3211
 <br>
 Semester:5th
 
 #
 
-Course Namae: Artificial Intelligence 
+Course Namae: Computer Organization  Architecture
 <br>
-Course Code: CSE 3317
+Course Code: CSE 3737
+<br>
+Semester:5th
+
+#
+
+Course Namae: Statistics & Probability
+<br>
+Course Code: STA 2107
 <br>
 Semester:5th
 
